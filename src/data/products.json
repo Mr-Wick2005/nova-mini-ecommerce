@@ -1,0 +1,322 @@
+[
+  {
+    "id": "nova-101",
+    "name": "Aura Studio Hi-Fi Wireless Headphones",
+    "category": "Electronics",
+    "price": 14999,
+    "rating": 4.9,
+    "reviewCount": 184,
+    "imageUrl": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80",
+    "shortDescription": "Precision-tuned acoustic architecture with adaptive active noise cancellation and 40h battery.",
+    "description": "Engineered for pure sonic immersion, the Aura Studio combines 45mm custom dynamic drivers with real-time adaptive noise cancellation. Crafted from aerospace-grade aluminum and supple vegan leather cushions for tireless all-day listening sessions.",
+    "stock": 14,
+    "features": [
+      "Custom 45mm beryllium drivers",
+      "Hybrid ANC with transparency mode",
+      "Up to 40 hours playtime on a single charge",
+      "Multipoint Bluetooth 5.3 with aptX HD lossless"
+    ],
+    "badge": "Best Seller",
+    "featured": true
+  },
+  {
+    "id": "nova-102",
+    "name": "Kanso Minimalist Mechanical Keyboard",
+    "category": "Electronics",
+    "price": 8499,
+    "rating": 4.8,
+    "reviewCount": 92,
+    "imageUrl": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=800&q=80",
+    "shortDescription": "75% compact CNC aluminum mechanical keyboard with hot-swappable tactile switches and PBT keycaps.",
+    "description": "The Kanso keyboard blends Japanese minimalism with tactile excellence. Featuring factory-lubed custom switches, silicone sound dampeners, per-key RGB backlighting, and dual-mode wireless connectivity for effortless typing aesthetics.",
+    "stock": 8,
+    "features": [
+      "Gasket mounted CNC anodized chassis",
+      "Hot-swappable 5-pin PCB with South-facing LEDs",
+      "Dye-sublimated PBT cherry profile keycaps",
+      "Triple connectivity: 2.4GHz, Bluetooth, USB-C"
+    ],
+    "badge": "Staff Pick",
+    "featured": true
+  },
+  {
+    "id": "nova-103",
+    "name": "Monolith Smart Desk Lamp",
+    "category": "Home",
+    "price": 4299,
+    "rating": 4.7,
+    "reviewCount": 65,
+    "imageUrl": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?auto=format&fit=crop&w=800&q=80",
+    "shortDescription": "Architectural LED task light with touch dimming, circadian auto-adjustment, and Qi wireless charging pad.",
+    "description": "Illumination perfected. Monolith delivers flicker-free, 98 CRI natural daylight balance that adapts seamlessly to your natural circadian rhythm throughout the work day. Includes an integrated 15W Qi fast charging base.",
+    "stock": 18,
+    "features": [
+      "Ultra-high 98 CRI natural color reproduction",
+      "Capacitive slide dimming with 5 color temperatures",
+      "Integrated 15W Qi wireless device charger",
+      "Matte sandblasted alloy finish"
+    ],
+    "badge": "Popular",
+    "featured": false
+  },
+  {
+    "id": "nova-104",
+    "name": "Veloce Full-Grain Leather Everyday Tote",
+    "category": "Accessories",
+    "price": 6999,
+    "rating": 4.9,
+    "reviewCount": 118,
+    "imageUrl": "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?auto=format&fit=crop&w=800&q=80",
+    "shortDescription": "Handcrafted vegetable-tanned leather carryall with dedicated 16-inch laptop compartment.",
+    "description": "Refined everyday utility. Meticulously handcrafted from Italian vegetable-tanned leather that develops a gorgeous, distinct patina over time. Features a padded sleeve fitting laptops up to 16 inches and waterproof zipper pockets.",
+    "stock": 6,
+    "features": [
+      "100% full-grain vegetable-tanned leather",
+      "Padded 16\" laptop and tablet compartments",
+      "Reinforced brass hardware with YKK Excella zippers",
+      "Concealed quick-access travel passport pocket"
+    ],
+    "badge": "Trending",
+    "featured": true
+  },
+  {
+    "id": "nova-105",
+    "name": "Komorebi Ceramic Pour-Over Set",
+    "category": "Home",
+    "price": 2799,
+    "rating": 4.8,
+    "reviewCount": 47,
+    "imageUrl": "https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd?auto=format&fit=crop&w=800&q=80",
+    "shortDescription": "Artisanal stoneware dripper and 600ml heat-resistant borosilicate glass carafe.",
+    "description": "Elevate your morning ritual. Hand-thrown by master potters with a reactive mineral glaze, this pour-over dripper optimizes water flow extraction for nuanced, sweet, and articulate coffee notes.",
+    "stock": 22,
+    "features": [
+      "Handmade stoneware with spiral extraction ribs",
+      "Thermal shock-resistant borosilicate carafe (600ml)",
+      "Universal size 02 filter compatibility",
+      "Microwave and dishwasher safe"
+    ],
+    "badge": "New",
+    "featured": false
+  },
+  {
+    "id": "nova-106",
+    "name": "Zephyr Ultralight Titanium Sunglasses",
+    "category": "Accessories",
+    "price": 5499,
+    "rating": 4.6,
+    "reviewCount": 53,
+    "imageUrl": "https://images.unsplash.com/photo-1511499767150-a48a237f0083?auto=format&fit=crop&w=800&q=80",
+    "shortDescription": "Featherweight Japanese beta-titanium frames with polarized anti-reflective lenses.",
+    "description": "Weighing only 18 grams, the Zephyr delivers all-day comfort with timeless geometric silhouette. Lenses feature 100% UVA/UVB protection with hydrophobic and oleophobic scratch-resistant coatings.",
+    "stock": 11,
+    "features": [
+      "Flexible Grade-5 Japanese Beta-Titanium frame",
+      "Polarized category 3 CR-39 sun lenses",
+      "Anti-reflective interior coating",
+      "Includes structured leather travel case"
+    ],
+    "badge": "New",
+    "featured": false
+  },
+  {
+    "id": "nova-107",
+    "name": "Forma Ergonomic Sculpted Mouse",
+    "category": "Electronics",
+    "price": 3899,
+    "rating": 4.7,
+    "reviewCount": 89,
+    "imageUrl": "https://images.unsplash.com/photo-1615663245857-ac93bb7c39e7?auto=format&fit=crop&w=800&q=80",
+    "shortDescription": "Natural handshake vertical ergonomic wireless mouse with silent clicks and hyper-scroll wheel.",
+    "description": "Relieve wrist strain and increase workflow precision. The Forma features a 57-degree natural handshake posture angle, whisper-quiet tactile switches, and high-precision glass-tracking sensor up to 4000 DPI.",
+    "stock": 19,
+    "features": [
+      "57° ergonomic handshake posture angle",
+      "Dual-mode electromagnetic hyper-fast scroll wheel",
+      "90% noise-reduced silent click switches",
+      "Rechargeable battery lasts up to 70 days"
+    ],
+    "badge": "Staff Pick",
+    "featured": false
+  },
+  {
+    "id": "nova-108",
+    "name": "Solace Woven Linen Throw Blanket",
+    "category": "Home",
+    "price": 3499,
+    "rating": 4.9,
+    "reviewCount": 78,
+    "imageUrl": "https://images.unsplash.com/photo-1584100936595-c0654b55a2e2?auto=format&fit=crop&w=800&q=80",
+    "shortDescription": "Pre-washed European flax linen and organic cotton blend with subtle fringed edges.",
+    "description": "Breathable, temperature-regulating, and exceptionally soft. Woven in Portugal from certified European flax, this versatile throw adds effortless texture and warmth to your living room sofa or bedroom sanctuary.",
+    "stock": 15,
+    "features": [
+      "55% French Flax Linen, 45% Organic Cotton",
+      "OEKO-TEX Standard 100 certified (no toxic dyes)",
+      "Generous 150cm x 200cm dimensions",
+      "Machine washable and gets softer with every wash"
+    ],
+    "badge": "Popular",
+    "featured": false
+  },
+  {
+    "id": "nova-109",
+    "name": "Oasis Ultrasonic Aroma Diffuser",
+    "category": "Lifestyle",
+    "price": 2999,
+    "rating": 4.8,
+    "reviewCount": 134,
+    "imageUrl": "https://images.unsplash.com/photo-1608571423902-eed4a5ad8108?auto=format&fit=crop&w=800&q=80",
+    "shortDescription": "Matte ceramic ultrasonic essential oil diffuser with ambient warm halo lighting.",
+    "description": "Transform your personal space into a serene spa. High-frequency ultrasonic vibrations silently disperse your favorite botanical essential oils into a delicate, restorative aromatic mist.",
+    "stock": 25,
+    "features": [
+      "Handcrafted solid porcelain stone cover",
+      "Whisper-quiet operation (<20dB)",
+      "Covers spaces up to 500 sq ft with dual mist modes",
+      "Auto shut-off when water level is depleted"
+    ],
+    "badge": "Best Seller",
+    "featured": false
+  },
+  {
+    "id": "nova-110",
+    "name": "Chronos Automatic Sapphire Watch",
+    "category": "Accessories",
+    "price": 18999,
+    "rating": 4.9,
+    "reviewCount": 61,
+    "imageUrl": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=800&q=80",
+    "shortDescription": "Minimalist Bauhaus automatic timepiece with scratch-resistant sapphire crystal and exhibition caseback.",
+    "description": "A study in precision and proportion. Powered by a Japanese 24-jewel automatic movement with a 41-hour power reserve. Encased in 316L surgical steel with anti-reflective double-domed sapphire crystal.",
+    "stock": 5,
+    "features": [
+      "Miyota 9015 automatic movement (28,800 bph)",
+      "Anti-reflective scratch-proof sapphire crystal",
+      "316L surgical-grade brushed stainless steel case",
+      "5 ATM (50m) water resistance"
+    ],
+    "badge": "Limited Edition",
+    "featured": true
+  },
+  {
+    "id": "nova-111",
+    "name": "Nomad Vacuum Insulated Water Flask",
+    "category": "Lifestyle",
+    "price": 1899,
+    "rating": 4.7,
+    "reviewCount": 142,
+    "imageUrl": "https://images.unsplash.com/photo-1602143407151-7111542de6e8?auto=format&fit=crop&w=800&q=80",
+    "shortDescription": "Double-wall stainless steel bottle with leakproof lid and powder-coat finish.",
+    "description": "Built for city commutes and backcountry trails alike. Keeps cold beverages ice-cold for up to 24 hours or hot tea steaming for 12 hours without external condensation or metallic taste transfer.",
+    "stock": 30,
+    "features": [
+      "18/8 food-grade pro-duty stainless steel",
+      "TempGuard double-wall vacuum insulation (750ml)",
+      "100% leakproof flex-handle lid",
+      "Sweat-free textured powder coat exterior"
+    ],
+    "badge": "Popular",
+    "featured": false
+  },
+  {
+    "id": "nova-112",
+    "name": "Serenity Organic Matcha Ceremony Set",
+    "category": "Lifestyle",
+    "price": 2499,
+    "rating": 4.8,
+    "reviewCount": 59,
+    "imageUrl": "https://images.unsplash.com/photo-1576092768241-dec231879fc3?auto=format&fit=crop&w=800&q=80",
+    "shortDescription": "Authentic Japanese ceremonial matcha kit with bamboo whisk, scoop, and hand-glazed chawan bowl.",
+    "description": "Connect with an age-old tradition of mindfulness. Includes a 100-prong golden bamboo chasen, bamboo chashaku, ceramic whisk stand, and hand-thrown matcha bowl for rich, frothy umami perfection.",
+    "stock": 16,
+    "features": [
+      "100-prong handcrafted golden bamboo whisk (Chasen)",
+      "Artisan stoneware bowl (Chawan) with pouring spout",
+      "Ceramic whisk rest (Kusenaoshi) to preserve shape",
+      "Carved natural bamboo measure spoon (Chashaku)"
+    ],
+    "badge": "Staff Pick",
+    "featured": false
+  },
+  {
+    "id": "nova-113",
+    "name": "Lumina True Wireless Earbuds",
+    "category": "Electronics",
+    "price": 6499,
+    "rating": 4.6,
+    "reviewCount": 110,
+    "imageUrl": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?auto=format&fit=crop&w=800&q=80",
+    "shortDescription": "Compact studio sound earbuds with environmental noise cancelling microphones and wireless charging.",
+    "description": "Crystal clear acoustics anywhere life takes you. Lumina features graphene-enhanced drivers, crystal voice ENC mics for distraction-free calls, and IPX5 water resistance for intense workouts.",
+    "stock": 12,
+    "features": [
+      "10mm graphene-coated high fidelity drivers",
+      "4-mic beamforming environmental noise cancelling",
+      "IPX5 sweat and splash water resistance",
+      "32 hours total playback with compact wireless case"
+    ],
+    "badge": "Trending",
+    "featured": false
+  },
+  {
+    "id": "nova-114",
+    "name": "Scribe Refillable Brass Fountain Pen",
+    "category": "Accessories",
+    "price": 3299,
+    "rating": 4.9,
+    "reviewCount": 43,
+    "imageUrl": "https://images.unsplash.com/photo-1583485088034-697b5bc54ccd?auto=format&fit=crop&w=800&q=80",
+    "shortDescription": "Solid machined raw brass fountain pen with German iridium-tipped fine nib and piston converter.",
+    "description": "A writing instrument of exceptional weight and balance. Machined from solid brass that oxidizes into a rich vintage hue with use. German engineered nib guarantees smooth, skip-free ink flow on any paper.",
+    "stock": 9,
+    "features": [
+      "Solid raw billet brass body (weighs 42g)",
+      "German Peter Bock #5 stainless steel fine nib",
+      "Includes international standard ink piston converter",
+      "Screw-on airtight cap prevents ink dry-out"
+    ],
+    "badge": "New",
+    "featured": false
+  },
+  {
+    "id": "nova-115",
+    "name": "Atelier Pure Soy Botanical Candle",
+    "category": "Lifestyle",
+    "price": 1699,
+    "rating": 4.7,
+    "reviewCount": 76,
+    "imageUrl": "https://images.unsplash.com/photo-1603006905003-be475563bc59?auto=format&fit=crop&w=800&q=80",
+    "shortDescription": "Hand-poured coconut-soy candle with cedarwood, amber resin, and wild sage notes in amber glass.",
+    "description": "Infuse your home with grounding warmth. Hand-poured using 100% natural wax and lead-free cotton wicks, Atelier delivers clean 55-hour burn time scented with therapeutic natural essential oils.",
+    "stock": 20,
+    "features": [
+      "100% biodegradable coconut-soy wax blend",
+      "Natural fragrance oils of Cedarwood, Amber & Sage",
+      "Crackling FSC-certified organic wood wick",
+      "Reusable amber glass jar with metal screw lid"
+    ],
+    "badge": "Popular",
+    "featured": false
+  },
+  {
+    "id": "nova-116",
+    "name": "Nordic Solid Oak Floating Wall Shelf",
+    "category": "Home",
+    "price": 3999,
+    "rating": 4.8,
+    "reviewCount": 51,
+    "imageUrl": "https://images.unsplash.com/photo-1594026112284-02bb6f3352fe?auto=format&fit=crop&w=800&q=80",
+    "shortDescription": "Sustainable FSC solid white oak display shelf with invisible heavy-duty mounting hardware.",
+    "description": "Clean lines and organic warmth for modern interiors. Finished with natural plant-based hardwax oil that accentuates the genuine oak grain while resisting moisture and stains.",
+    "stock": 7,
+    "features": [
+      "100% FSC certified solid European white oak",
+      "Invisible heavy-duty steel mounting bracket system",
+      "Supports up to 20kg weight capacity",
+      "Matte protective natural oil finish (80cm x 18cm)"
+    ],
+    "badge": "Staff Pick",
+    "featured": false
+  }
+]
